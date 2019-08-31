@@ -1,4 +1,4 @@
-This is a Subscription-based Web-App with ReactJS, Firebase and Navi. Inspired by [frontarm.com]https://frontarm.com/
+## This is a Subscription-based Web-App with ReactJS, Firebase and Navi. Inspired by [frontarm.com](https://frontarm.com/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
